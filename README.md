@@ -1,2 +1,2 @@
-# PAC-MAN-PROJECT-45
-NICE
+# p5.play-boilerplate
+Boiler plate for p5.play
